@@ -5,7 +5,7 @@ Imagine Scholar
 
 
 ####To Do
-- [ ] Site Map
+- [x] Site Map
 - [ ] Wireframes of pages
 - [ ] Element Collage
 - [ ] Page Mockups
