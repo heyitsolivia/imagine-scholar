@@ -6,7 +6,7 @@ Imagine Scholar
 
 ####To Do
 - [x] Site Map
-- [ ] Wireframes of pages
+- [x] Wireframes of pages
 - [ ] Element Collage
 - [ ] Page Mockups
 - [ ] Build out Page Layout
